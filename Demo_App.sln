@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.API", "Auth.API\Auth.API.csproj", "{F9A1F8F6-3273-4092-A6B4-A4E79A7E8C4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product.API", "Product.API\Product.API.csproj", "{BCD783EE-3001-4A26-A8C5-F37A8B4AA79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A1F8F6-3273-4092-A6B4-A4E79A7E8C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A1F8F6-3273-4092-A6B4-A4E79A7E8C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A1F8F6-3273-4092-A6B4-A4E79A7E8C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A1F8F6-3273-4092-A6B4-A4E79A7E8C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCD783EE-3001-4A26-A8C5-F37A8B4AA79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD783EE-3001-4A26-A8C5-F37A8B4AA79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD783EE-3001-4A26-A8C5-F37A8B4AA79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD783EE-3001-4A26-A8C5-F37A8B4AA79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {330C4F36-F5BE-4B8D-AD3A-361D3FB735B7}
+	EndGlobalSection
+EndGlobal
